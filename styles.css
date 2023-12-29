@@ -1,0 +1,30 @@
+.container{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+body{
+  background-color: pink;
+}
+h1{
+  font-size: 3rem;
+  font-family: "cambria",cursive;
+  color: black;
+}
+p{
+font-size: 2rem;
+  font-family: "cambria",cursive;
+  color: black;
+}
+img{
+  width: 80%;
+}
+footer{
+  color: white;
+  margin: auto;
+  font-family: "cambria",cursive;
+}
